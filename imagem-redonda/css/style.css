@@ -1,0 +1,10 @@
+body {
+    padding: 200px 600px;
+
+}
+
+#img_redonda {
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
